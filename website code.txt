@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+
+		<head>
+			<meta http-equiv="content-type" content ="text/html; charset=utf-8" />
+				<title>NMK Construction Company</title>
+		</head>
+	
+	<body>
+	
+		<table width="100%" height="60" border="0" cellspacing="5" cellpadding="5" bgcolor="#000000">
+	
+			<tr>
+		
+				<td align="left">
+				
+					<table width="547" border="0" align="center" cellpadding="1" cellspacing="1">
+					
+						<td width="96"><font face="Verdana, Geneva, sans-serif" color="white">
+						<h3>Home</h3></font></td>
+						
+						<td width="113"><font face="Verdana, Geneva, sans-serif" color="white">
+						<h3>About</h3></font></td>
+						
+						<td width="128"><font face="Verdana, Geneva, sans-serif" color="white">
+						<h3>Services</h3></font></td>
+						
+						<td width="114"><font face="Verdana, Geneva, sans-serif" color="white">
+						<h3>Clients</h3></font></td>
+						
+						<td width="140"><font face="Verdana, Geneva, sans-serif" color="white">
+						<h3>Contact Us</h3></font></td>
+						
+						
+						
+					
+					</table>
+				</td>
+		
+			</tr>
+
+		</table>
+		
+		<table width="100%" height="150" border="0" cellspacing"5" cellpadding="5" bgcolor="#F0F0F0">
+		
+		<tr>
+			<td align="center">
+			
+			<table width="1100" border="0" cellspacing="1" cellpadding="1">
+			
+				<tr>
+				
+					<td width="530" align="left"><font face="Verdana,Geneva, sans-serif" color="black" size="5"><strong>NEHRU MAL KHATRI GOVERNMENT CONTRACTOR</strong>
+					<br />
+					Website</font></td>
+			
+					<td width ="330" align="right"><font face="Verdana,Geneva,sans-serif" color="black" size="5" ><strong>Call Us Today!</strong><br />
+					0333-33300484</font></td>
+				</tr>
+			</table>	
+			
+			</td>
+			
+		</tr>
+		
+		</table>
+		
+		<table width="100%" height="150" border="0" cellspacing="5"
+		cellpadding="5" bgcolor="#F0F0F0">
+		
+			<tr>
+			
+				<td align="center">
+					<table width="600" border="0" cellspacing="1" cellpadding="1">
+				
+						<tr>
+						<td align="center"><img src="website1.jpg" width="1000"height="500" /></td>
+						
+						</tr>
+					</table>
+				</td>
+			
+			</tr>		
+		
+		</table>
+		
+	<table width="100%" height="82" border="0" cellspacing="5"
+		cellpadding="5" bgcolor="white">
+		
+		
+		<tr>
+		
+		<td height ="72" align="center" valign="top">
+		
+			<table width="730" border="0" cellspacing="1" cellpadding="1">
+		
+			<tr>
+			
+			<td width="726" align="center"><font face ="Verdana, Geneva, sans-serif"
+				color="black" size="6"> This is My Company Website<strong><br />
+				Dream, Plan, and Create.</strong><br /></font></td>
+				
+			</tr>
+			</table>
+		</td>
+		</tr>		
+	</table>
+
+<table width="100%" height ="236" border="0" cellspacing="5" cellpadding="5" bgcolor="white">
+
+	<tr>
+	
+		<td height="72" align="center" valign="top">
+		
+			<table width="313" border="0" cellspacing="3" cellpadding="3" bgcolor="#FF9900">
+			
+				<tr>
+					<td width="301" align="center" nowrap="nowrap"><font color="white" size="5" face="Verdana
+					, Geneva, sans-serif"><a href="#"> Contact Us Today!</a><br /></font></td>
+					
+				</tr>
+			</table>	
+		</td>
+	</tr>	
+		
+	<tr>
+
+			<td height="72" align="center" valign="top">
+			
+			<font color="black" size="2" face="Verdana, Geneva, sans-serif">
+			<strong>Register for our Newsletter:</strong></font><br />
+			
+			<form name="contact" method="post" action="send.php">
+			<input type="text" name ="email" />
+			<input type="submit" name ="button" value="Submit" />
+			</form>
+			</td>
+	</tr>
+</table>	
+
+<table width="100%" height ="236" border="0" 
+cellspacing="5" cellpadding="5" bgcolor="white">
+
+	<tr>
+		<td height ="72" align="center" valign="top">
+		
+			<table width="900" border="1" bordercolor="#CCCCCC" cellspacing="0"
+			cellpadding="8" >
+			
+				<tr>
+	
+					<td width="268"><font face="Verdana, Geneva, sans-serif" color="black"
+					 size="3"><strong><u>ABOUT US</u></strong></font></td>
+					 
+					 <td width="268"><font face="Verdana, Geneva, sans-serif" color="black"
+					 size="3"><strong><u>OUR VISION</u></strong></font></td>
+					 
+					 <td width="268"><font face="Verdana, Geneva, sans-serif" color="black"
+					 size="3"><strong><u>SERVICES</u></strong></font></td>
+				</tr>
+				
+				<tr>
+				
+					<td><font face= "Verdana, Geneva, sans-serif" color=
+					"black" size="2">
+					NMK construction company is providing serivices more than 35
+					years. We have experience in supplying Building Material,
+					Electrical Matrial, Sanitary Matrial, Stationary Material,
+					IT relevent items as well.
+					</font></td>
+					
+					<td valign="top"><font face= "Verdana, Geneva, sans-serif" color=
+					"black" size="2">Our ultimate goal is to achieve our customer’s
+					satisfaction and maintaining a long-standing loyal business
+					relationship with them.</font></td>
+					
+					<td valign="top">
+						<font face="Verdana, Geneva, sans-serif" color="black" size="2">
+							<ul>
+													
+								<li>Building/Road Construction<br /></li>
+								<li>All Electrical Items <br /></li>
+								<li>Hardware<br /></li>
+								<li>Office and School Stationary & Equipment<br /></li>
+								<li>Papers<br /></li>
+								<li>Printing Consumable<br /></li>
+								<li>Pre-Printed<br /></li>
+								<li>Gaming Hardware<br /></li>
+								<li>Audio Visuals<br /></li>
+								<li>CCTV Surveillance Equipment<br /></li>
+							</ul>
+						</font>
+					</td>	
+					
+				</tr>
+
+			</table>
+		</td>	
+	</tr>
+
+
+</table>
+
+
+<table width ="100%" height ="60" border="0" cellspacing"5" cellpadding="5"
+bgcolor="#000000">
+
+	<tr>
+	
+		<td align="center">
+		
+			<font face="Verdana, Geneva, sans-serif" color="white">
+		Home - About - Services - Clients - Contact<br />
+		<br />
+		
+			 © 2020 by MyBusiness Website.</font>
+		</td>	
+	</tr>
+</table>	
+	
+	</body>
+</html>
